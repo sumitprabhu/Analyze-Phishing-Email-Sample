@@ -31,7 +31,7 @@ This project documents the step-by-step analysis of a suspicious phishing email 
 3. Urgent Message
    - Tickets will be allocated on first-come, first-served basis, so don't miss out!
      
-## 📄 Summary of Phishing Indicators
+## Summary of Phishing Indicators
 
 - **Spoofed sender domain**
 - **Urgency tactic**
